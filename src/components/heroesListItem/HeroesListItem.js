@@ -1,5 +1,6 @@
 
 const HeroesListItem = ({ name, description, element, onDelete }) => {
+  //console.log('render HeroesListItem');
 
   let elementClassName;
 
