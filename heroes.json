@@ -25,12 +25,6 @@
       "element": "fire"
     },
     {
-      "id": "75039b14-853a-406f-8bc2-6b8b661fe0ef",
-      "name": "seventeen",
-      "description": "case off",
-      "element": "water"
-    },
-    {
       "id": "fc774a4d-17f4-4970-a6aa-0d6e24417770",
       "name": "one",
       "description": "choice me",
@@ -41,30 +35,41 @@
       "name": "ten",
       "description": "work",
       "element": "wind"
+    },
+    {
+      "id": "dc0090a5-0e90-4cff-b8a0-33dcedcdebcb",
+      "name": "redBull",
+      "description": "new add",
+      "element": "water"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
